@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonSQS.API", "AmazonSQS.API\AmazonSQS.API.csproj", "{94522729-C639-4413-894E-146B62C16D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94522729-C639-4413-894E-146B62C16D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94522729-C639-4413-894E-146B62C16D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94522729-C639-4413-894E-146B62C16D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94522729-C639-4413-894E-146B62C16D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9505D90A-8CF2-468A-A93F-EB2454E4BBB1}
+	EndGlobalSection
+EndGlobal
